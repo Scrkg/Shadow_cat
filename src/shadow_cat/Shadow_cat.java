@@ -15,6 +15,9 @@ public class Shadow_cat {
      */
     public static void main(String[] args) {
         System.out.println("Hola");
+        System.out.println("Hola");
+        System.out.println("Hola");
+        System.out.println("Hola");
         // TODO code application logic here
     }
     
