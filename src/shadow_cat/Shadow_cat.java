@@ -6,7 +6,8 @@ public class Shadow_cat {
     /**Metodo principal @param args*/
     public static void main(String[] args) {
         System.out.println("Hola");
-
+        
+        Vista MiVentana=new Vista();
     }
     
 }
