@@ -1,0 +1,12 @@
+Seguimiento del proyecto:
+Control de avances y ruta de desarrollo.
+###
+Sólo el profesor actuará únicamente sobre este archivo, del resto del proyecto.
+No modificar ni borrar este archivo, ya que equivale a puntuar el proyecto con 0.
+###
+
+1º mosificación:
+Ok, licencia.
+No es una estructuta funcional MVC con 4 ficheros.
+No hay label.
+-> Corrige las carencias y en el label inserta una imagen donde "pintes" el look de como sería la ventana principal.
