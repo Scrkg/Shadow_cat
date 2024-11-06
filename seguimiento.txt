@@ -10,3 +10,4 @@ Ok, licencia.
 No es una estructuta funcional MVC con 4 ficheros.
 No hay label.
 -> Corrige las carencias y en el label inserta una imagen donde "pintes" el look de como sería la ventana principal.
+-> Refactoriza (cambia) los nombres de todas las clases y objetos que uses de forma que sean exclusivos tuyos y del proyecto (en el futuro no evaluaré nada con nombres genéricos automatizados).
