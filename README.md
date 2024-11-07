@@ -4,7 +4,7 @@ Es una aplicacion de gestión de un equipo de baloncesto y sus jugadores.
 ## Visuales
 Paginia principal
 <div align="center">
-<a href="https://ossinsight.io">
+<a href=/shadow_cat/cuerpo/Pantalla_principal.png">
   <img src="/shadow_cat/cuerpo/Pantalla_principal.png" height=360
 </a>
 </div>
