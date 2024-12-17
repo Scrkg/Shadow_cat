@@ -2,11 +2,12 @@ package shadow_cat.cerebro;
 
 import shadow_cat.interfaces_visuales.PantallaPrincipal;
 import shadow_cat.cuerpo.Cuerpo;
+//import shadow_cat.interfaces_visuales.VentanaCarga;
 
 import java.io.IOException;
 
 /**
- * @author oekgS
+ * @author oekg
  * @version 0.1
  */
 public class Shadow_cat {
@@ -25,10 +26,11 @@ public class Shadow_cat {
         //Variables
         Cuerpo Estructura = new Cuerpo();
         PantallaPrincipal Inicio = new PantallaPrincipal();
+//        VentanaCarga Carga = new VentanaCarga();
         Fist Cerebro = new Fist(Estructura, Inicio);
 
         //Metodo
-        Cerebro.Arranque();
+        Cerebro.arranque();
 
     }
 
